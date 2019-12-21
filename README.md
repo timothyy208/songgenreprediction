@@ -8,8 +8,6 @@ Removed/replaced problematic lyric fields (e.g null values, too few words, symbo
 
 Removed the 5 genres with the fewest songs
 
-Unbalanced (labeled) → Balanced (labeled) dataset
-
 Took a random sample of size n=13354 for each of the 5 remaining genres
 
 n =  size of the smallest remaining genre 
